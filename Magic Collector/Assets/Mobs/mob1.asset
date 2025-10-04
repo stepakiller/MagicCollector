@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dc8d9a94460caf4fbc68eb61bf13aa7, type: 3}
+  m_Name: mob1
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: c6f9dc7b1ef62a44ba98180548ee2d1f, type: 3}
+  prefab: {fileID: 5590506586015594283, guid: 54e7c90facd591b41ae26b7812a1e743, type: 3}
+  nameMob: Popa
